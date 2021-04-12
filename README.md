@@ -14,7 +14,6 @@ FGA - Faculdade do Gama
 	    Não será considerado para efeitos de cálculo de menção.
 	2.3 Desafios de programação, utilizando OO na resolução  
 	    Será considerado **apenas** para "arredondamento" de menção. Somente serão feitos arredondamentos para os alunos que tiverem feito todos os desafios e que as soluções estejam corretas. 
->>>>>>> organizacaoDisciplina
 	
 3. **Lista de presença**
 

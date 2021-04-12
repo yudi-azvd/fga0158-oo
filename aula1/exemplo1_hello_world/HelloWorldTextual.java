@@ -38,6 +38,7 @@ public class HelloWorldTextual {
 		String saudacao = "Olá " + nome + " " + sobrenome + "!";
 		saudacao = saudacao + "Você tem " + (2021 - anoNascimento) + " anos de idade. ";
 		System.out.println(saudacao);
-	}
 
+		sc.close();
+	}
 }
