@@ -2,7 +2,8 @@ UnB - Universidade de Brasilia
 FGA - Faculdade do Gama
 
 # FGA0158 - Orientação por Objetos
-Exercícios da disciplina e material de estudo.
+Exercícios da disciplina e material de estudo. [Repositório original](https://github.com/andrelanna/fga0158)
+do professor.
 
 1. **Conteúdo da disciplina**  
     1.1 Paradigma de orientação por objetos  
