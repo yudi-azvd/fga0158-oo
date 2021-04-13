@@ -1,7 +1,4 @@
-UnB - Universidade de Brasilia  
-FGA - Faculdade do Gama
-
-# FGA0158 - Orientação por Objetos
+# Orientação a Objetos (FGA0158)
 Exercícios da disciplina e material de estudo.
 
 1. **Conteúdo da disciplina**  
@@ -15,12 +12,6 @@ Exercícios da disciplina e material de estudo.
 	    Não será considerado para efeitos de cálculo de menção.
 	2.3 Desafios de programação, utilizando OO na resolução  
 	    Será considerado **apenas** para "arredondamento" de menção. Somente serão feitos arredondamentos para os alunos que tiverem feito todos os desafios e que as soluções estejam corretas. 
-	
-3. **Lista de presença**
-
-4. **Plano de aulas**
-
-5. **Bibliografia**
 
 ---
 ## Conteúdo
