@@ -1,5 +1,6 @@
 # Orientação a Objetos (FGA0158)
-Exercícios da disciplina e material de estudo.
+Exercícios da disciplina e material de estudo. [Repositório original](https://github.com/andrelanna/fga0158)
+do professor.
 
 1. **Conteúdo da disciplina**  
     1.1 Paradigma de orientação por objetos  
