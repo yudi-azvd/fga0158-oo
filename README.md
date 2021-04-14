@@ -14,6 +14,15 @@ do professor.
 	2.3 Desafios de programação, utilizando OO na resolução  
 	    Será considerado **apenas** para "arredondamento" de menção. Somente serão feitos arredondamentos para os alunos que tiverem feito todos os desafios e que as soluções estejam corretas. 
 
+## Atividades
+[Conceitos Git e GitHub](atividades/exercicio1_git_github/README.md)
+
+[Lista 1](atividades/lista1/)
+
+[Polimorfismo](atividades/exercicio2_polimorfismo/README.md)
+
+
+
 ---
 ## Conteúdo
 (segundo o SIGAA)
