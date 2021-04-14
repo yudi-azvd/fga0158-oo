@@ -63,7 +63,7 @@ Permite que uma função ou tipo de dado sera escrito genericamente, de maneira
 que eles possam lidar com os valores uniformemente sem depender dos tipos dos
 dados.
 
-Em C++ e D, o mecanismo de implemtação é `template`. Em Java e C# é `generics`.
+Em C++ e D, o mecanismo de implementação é `template`. Em Java e C# é `generics`.
 
 ```java
 class List<T> {
