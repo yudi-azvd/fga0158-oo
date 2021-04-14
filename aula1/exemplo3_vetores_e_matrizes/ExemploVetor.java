@@ -1,6 +1,6 @@
 package exemplo3_vetores_e_matrizes;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class ExemploVetor {
 	public static void main(String[] args) {

@@ -18,8 +18,8 @@ public class Principal {
 		
 		//2o.) apresentar menu ao usuario
 		int opcaoEscolhida = 0;
+		Scanner sc = new Scanner(System.in);
 		do {
-			Scanner sc = new Scanner(System.in);
 			
 			String menu = "Menu de opcoes \n"
 					    + "============== \n\n"
@@ -42,6 +42,8 @@ public class Principal {
 			default:
 			}
 		} while (opcaoEscolhida != 0);
+
+		sc.close();
 	}
 
 	private static void imprimirPAs() {

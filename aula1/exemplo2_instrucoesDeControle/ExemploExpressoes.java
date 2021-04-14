@@ -20,5 +20,7 @@ public class ExemploExpressoes {
 			System.out.println("x não é multiplo de tres!");
 			break;
 		}
+
+		sc.close();
 	}
 }
