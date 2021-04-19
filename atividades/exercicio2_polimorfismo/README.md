@@ -1,5 +1,4 @@
 # Atividade sobre Polimorfismo
-
 Procurar na internet ou em livros os seguintes tipos de polimorfismo: 
 
 1. Polimorfismo por sobrescrita de métodos
@@ -20,12 +19,10 @@ classe com a mesma assinatura, podendo conferir um novo comportamento ao método
 
 O método sobrescrito pode ter sua acessibilidade aumentada, mas não restringida.
 Se o método é privado na super classe, a sub classe  pode torná-la pública, 
-mas não o contrário.
-[Exemplo funcional](ClasseDerivada.java).
+mas não o contrário. [Exemplo funcional](ClasseDerivada.java).
 
 
 ```java
-
 class ClasseBase {
   public void metodo1() {
     System.out.println("Oi da classe base");
@@ -78,8 +75,38 @@ class List<T> {
 ```
 
 ## Polimorfismo por subtipagem
-...
+Se uma função aceita como argumento um dado do tipo `T`, ela também pode aceitar
+qualquer outro dado de subtipo de `T`. Se `S`, `R` e `U` são subtipos de `T`, 
+então dados dos tipos `S`, `R` e `U` podem ser passados pra função.
 
+Polimorfismo por subtipagem geralmente é resolvido dinamicamente.
+
+```java
+abstract class Animal {
+  abstract String talk();
+}
+
+class Cat extends Animal {
+  String talk() {
+    return "Meow!";
+  }
+}
+
+class Dog extends Animal {
+  String talk() {
+    return "Woof!";
+  }
+}
+
+static void letsHeat(final Animal a) {
+  println(a.talk();)
+}
+
+static void main(String[] args) {
+  letsHear(new Cat());
+  letsHear(new Dog());
+}
+```
         
 
 ### Referências
